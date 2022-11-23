@@ -406,6 +406,11 @@ blockquote footer {
 .gla_simple_block h2:after{
 	margin-bottom: 30px;
 }
+
+.marginbtn{
+	margin-bottom: 28px;
+}
+
 .form-control {
 	width: 100%;
 }
